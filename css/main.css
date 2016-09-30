@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+}
+
+.container-fluid.date {
+	display: block;
+	margin-top: 15%;
+	
+}
+
+#date {
+	text-align: center;
+	font-size: 130px;
+	font-weight: bold;
+	
+}
+
+.container-fluid {
+	display: inline-block;
+	text-align: center;
+	
+}
+
+#time {
+	text-align: center;
+	font-size: 100px;
+	font-weight: bold;
+	margin: 5% 0%;
+	padding: 5% 0%;
+}
+
+.container-fluid.pm {
+	position: relative;
+	bottom: 62px;
+	font-size: 20px;
+}
+
